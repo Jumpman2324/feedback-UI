@@ -20,7 +20,7 @@ btnEl.addEventListener("click",() =>{
         <br>
         <br>
         <strong>Feedback: ${selectedRating} </strong>
-        <strong> <p>Well use your feedback to improve our customer support </p>    </strong>
+        <strong> <p>We will use your feedback to improve our customer support </p>    </strong>
         
 
 
